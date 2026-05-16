@@ -1,1 +1,1 @@
-[Projects](./projects/index.html)
+my home page
